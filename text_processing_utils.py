@@ -16,7 +16,7 @@ Features:
 - Text similarity and comparison
 - Multilingual support
 
-Author: LexiQ Team
+Author: vieuxtiful
 License: MIT
 """
 
