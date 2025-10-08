@@ -1,5 +1,5 @@
 """
-Text Processing Utilities
+LingPro NLP
 =========================
 
 A comprehensive collection of text processing utilities for NLP and text analysis tasks.
